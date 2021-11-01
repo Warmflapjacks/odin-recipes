@@ -1,5 +1,6 @@
 /*style.css*/
 
-head, body {
+* {
     background-color: bisque;
+    font-family: Arial;
 }
