@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-    color: #E1DDD1;
+    color: #A7ADBB;
     font-family: Garamond, Verdana, Tahoma, sans-serif;
     
 }
@@ -31,8 +31,7 @@ a {
 }
 
 button {
-    background-color: #A7ADBB;
+    background-color: #E1DDD1;
     padding: 15px;
     border-radius: 50%;
-    /* font-size: auto; */
 }
