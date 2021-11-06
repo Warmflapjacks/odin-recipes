@@ -1,6 +1,38 @@
-/*style.css*/
+/*----COLORS----*/
+/*
+white: #3E1DD1
+grey: #A7ADBB
+blue: #16344E
+blue/black: #14191D
+*/
 
-* {
-    background-color: bisque;
-    font-family: Arial;
+
+/*style.css*/
+body {
+    background-color: #16344E;
+}
+
+h1 {
+    color: #E1DDD1;
+    font-family: Garamond, Verdana, Tahoma, sans-serif;
+    
+}
+
+ul {
+    /*removes bullet points from list*/
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    /*removes underlining from link*/
+    text-decoration: none;
+}
+
+button {
+    background-color: #A7ADBB;
+    padding: 15px;
+    border-radius: 50%;
+    /* font-size: auto; */
 }
