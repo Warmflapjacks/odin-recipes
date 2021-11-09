@@ -1,6 +1,6 @@
 /*----COLORS----*/
 /*
-white: #3E1DD1
+white: #E1DDD1
 grey: #A7ADBB
 blue: #16344E
 blue/black: #14191D
@@ -10,10 +10,11 @@ blue/black: #14191D
 /*style.css*/
 body {
     background-color: #16344E;
+    color: #E1DDD1;
 }
 
 h1 {
-    color: #A7ADBB;
+    color: #E1DDD1;
     font-family: Garamond, Verdana, Tahoma, sans-serif;
     
 }
@@ -28,7 +29,7 @@ a {
 }
 
 button {
-    background-color: #E1DDD1;
+    background-color: #d69a9a;
     padding: 15px;
     border-radius: 50%;
 }
