@@ -18,16 +18,13 @@ h1 {
     
 }
 
-ul {
-    /*removes bullet points from list*/
-    list-style-type: none;
-    display: flex;
-    justify-content: space-between;
-}
-
 a {
     /*removes underlining from link*/
     text-decoration: none;
+}
+
+.main-buttons li {
+    list-style-type: none;
 }
 
 button {
